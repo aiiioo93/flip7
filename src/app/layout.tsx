@@ -21,6 +21,11 @@ const lilita = Lilita_One({
 export const metadata: Metadata = {
   title: "Flip 7 Score",
   description: "Compteur de points pour le jeu Flip 7 — classement en direct, historique des parties.",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "Flip 7",
+  },
 };
 
 export const viewport: Viewport = {
