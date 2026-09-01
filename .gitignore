@@ -40,5 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# fichier perso, ne pas publier
-docs/Profil_Abdoul-aziz_Drame.md
+# documents perso, ne pas publier
+docs/
